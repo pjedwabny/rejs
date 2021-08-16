@@ -94,3 +94,53 @@ Z Krakowa jest **1200 km** drogą lądową, przed wyruszeniem będziemy się uma
 
 ## Podsumowanie
 W całości - z pominięciem wyjść do knajp (pełne wyżywienie jest na jachcie w ramach składki) - wychodzi relnie *za wszystko* w granicach **2200 zł - 2700 zł**.
+
+# FAQ
+
+## Czy w październiku nie jest za zimno na takie zabawy?
+*Zdecydowanie nie jest za zimno, zwłaszcza, że to pierwsza połowa października. Co prawda woda już się robi chłodna, ale spokojnie można jeszcze pływać.*
+
+## W co się ubrać?
+*Koszulki z krótkim rękawem, krótkie spodnie, spódniczki, sukienki etc., to są stroje na październik w Chorwacji - niemniej oczywiście coś ciepłego też warto zabrać, bo chłodno też bywa, a nawet jeśli nie, to sam wiatr na otwartym akwenie, nawet w pełnym słońcu potrafi wychłodzić*
+
+## Czy jeśli realnie startujemy w niedzielę, to mogę przyjechać w niedzielę rano?
+*Nie można, w sobotę będą:*
+- *Szkolenia BHP*
+- *Tłumaczone zasady życia na jachcie*
+- *Wykład o działaniu jachtu*
+- *Podział na **wachty** (zmiany), zwłaszcza w kwestii **kambuzu** (kuchni)*
+
+*Oczywiście jeśli ktoś będzie miał sytuację, że nie może inaczej niż w niedzielę, albo coś się wysypie i nie zdąży to nic się strasznego nie stanie, ale nie jest to sytuacja pożądana. Jeśli natomiast ktoś się spóźni bardziej niż południe w niedzielę, to będzie musiał nas łapać w innym porcie na jakiejś wyspie. Promy są, nawet chyba jest Uber Boats, więc dostanie się bez (**ekstra dużego**) problemu.*
+
+## Co to znaczy, że kończymy żeglugę w piątek?
+*To znaczy, że w piątek wieczorem musimy być już w porcie, żeby uniknąć sytuacji w której spóźnimy się ze zdaniem jachtu w sobotę rano, ponieważ armator musi zdążyć przygotować jednostkę na kolejny czarter.*
+
+- Czy w takim razie nie możemy się zatrzymać gdzieś obok portu i rano szybko przepłynąć na miejsce?  
+*Nie możemy ponieważ do powrotu do portu w piątek zobowiązuje mnie umowa czarterowa*
+
+- Czy to znaczy, że w piątek już nic się nie dzieje?  
+*Nie, w piątek wieczorem po zaparkowaniu jachtu idziemy na miasto wspominać jak było super.*
+
+- Czy to znaczy, że w piątek śpimy w hotelu?  
+*Nie, w piątek śpimy normalnie na jachcie. Musimy go tylko opuścić przed **10 rano***
+
+- Czy jeśli kończymy żeglugę w piątek, to mogę już wtedy pojechać do domu/gdziekolwiek indziej?  
+*Jeśli masz transport to tak, jak najbardziej, ale wszystkim będzie przykro :D*
+
+## Czy są inne łazienki niż te w kajutach dwuosobowych?
+*Nie, na jachcie są tylko cztery łazienki w kajutach. Ci, którzy mają kajutę 1 os. muszą korzystać z dowolnej z czterech dostępnych łazienek przypisanych do kajut dwuosobowych, ponieważ żadna łazienka wspólna nie istnieje*
+
+
+# Słownik pojęć
+> Marina
+
+Marina to jest taka wydzielona część portu, gdzie mogą stawać jachty turystyczne (port jako taki, jest przede wszystkim instytucją handlową). W marinie znajdziemy:
+- Pomocną obsługę
+- Sanitariaty
+  - toalety
+  - prysznice
+  - pralki
+  - etc..
+- Podpięcie jachtu do prądu i wody
+
+**ACI** to jest takie Chorwackie zrzeszenie droższych marin - **Adriatic Croatia International Club** (https://aci-marinas.com/). Są trochę wyższej klasy, ale właściwie nas to nie obchodzi, bo jedziemy tam siedzieć na jachcie a nie podziwiać armaturę w łazienkach.
