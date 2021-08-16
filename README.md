@@ -9,8 +9,8 @@ Myślę, że spokojnie można powiedzieć (a Ci, którzy już z nami pływali na
 
 ## Czym płyniemy?
 Jachty mamy aktualnie dwa:
-- Lagoon 450 (2020) - https://www.cata-lagoon.com/en/450-s
-- Lagoon 400 S2 (2018) - https://www.cata-lagoon.com/en/40
+- Lagoon 450 ( rok produkcji 2020) - https://www.cata-lagoon.com/en/450-s
+- Lagoon 400 S2 (rok produkcji 2018) - https://www.cata-lagoon.com/en/40
 
 Tutaj chciałbym zaznaczyć, że to są *dokładnie te modele*, niemniej na zdjęciach zawsze wszystko wygląda lepiej (zwłaszcza na zdjęciach producenta) - ale też spokojnie, patrzcie na rok produkcji
 
