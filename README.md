@@ -137,12 +137,8 @@ W całości - z pominięciem wyjść do knajp (pełne wyżywienie jest na jachci
 - Czy jeśli kończymy żeglugę w piątek, to mogę już wtedy pojechać do domu/gdziekolwiek indziej?  
 *Jeśli masz transport to tak, jak najbardziej, ale wszystkim będzie przykro :D*
 
-## Czy są inne łazienki niż te w kajutach dwuosobowych?
-*Nie, na jachcie są tylko cztery łazienki w kajutach. Ci, którzy mają kajutę 1 os. muszą korzystać z dowolnej z czterech dostępnych łazienek przypisanych do kajut dwuosobowych, ponieważ żadna łazienka wspólna nie istnieje*
 
-
-# Słownik pojęć
-> Marina
+## Co jest dostępne w marinie?
 
 Marina to jest taka wydzielona część portu, gdzie mogą stawać jachty turystyczne (port jako taki, jest przede wszystkim instytucją handlową). W marinie znajdziemy:
 - Pomocną obsługę
