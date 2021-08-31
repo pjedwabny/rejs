@@ -22,12 +22,12 @@ Na jachcie są tylko cztery łazienki - te przpisane do kajut dwuosobowych. Osob
 
 # Kiedy?
 
-Impreza dzieje się w październiku **09.10 - 16.10** (sobota - sobota):
-- **Zaokrętowanie** (zasiedlenie) powinno być możliwe wczesnym popołudniem **09 października (sobota)**
+Impreza dzieje się w październiku **02.10 - 09.10** (sobota - sobota):
+- **Zaokrętowanie** (zasiedlenie) powinno być możliwe wczesnym popołudniem **2 października (sobota)**
 - Żeglugę rozpoczynamy następnego dnia, w **niedzielę** około **10 rano**  
 Tak, żeby wszyscy którzy popili zaraz po przyjeździe zdążyli dojść do siebie, Ci co zapomnieli o czymś super ważnym do kupienia zdążyli wstać rano kupić i wrócić, spóźnieni zdążyli dojechać etc..
 - Żeglugę kończymy w **piątek** wieczorem
-- **Wyokrętowanie** (opuszczenie jednostki) musimy przeprowadzić do **10:00 16 października (sobota)**
+- **Wyokrętowanie** (opuszczenie jednostki) musimy przeprowadzić do **10:00 9 października (sobota)**
 - Po wyokrętowaniu będę musiał załatwić jeszcze kilka spraw formalnych, co zajmie mi pewnie do dwóch godzin i możemy jechać
 
 # Gdzie?
