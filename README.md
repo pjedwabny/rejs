@@ -77,8 +77,8 @@ W zależności od wybranego miejsca (patrz opis jachtu) w kajucie..:
 - 2 os. - **1500 zł**
 
 Płatne w 2 ratach:
-- 500 zł - jak najszybciej, celem zarezerwowania miejsca *(przepadająca w przypadku rezygnacji)* *
-- reszta - do *15.09*, kwota w zależności od wybranego miejsca
+- zaliczka 500 zł - celem rezerwacji miejsca *(przepadająca w przypadku rezygnacji)* *
+- reszta - do *10.09*, *(zwrotna w przypadku rezygnacji)*
 
 \* \- *Zaliczka jest przepadająca, ponieważ jacht kosztuje tyle samo niezależnie od tego ile osób nim popłynie, a cena za osobę jest stała, więc koniecznym jest zapewnienie za te pieniądze atrakcyjniejszych warunków dla osób, które trzeba będzie znaleźć na zastępstwo.* 
 
