@@ -1,11 +1,7 @@
 # Jaki rejs?
-Najprawdziwszy rejs, najprawdziwszymi jachtami, wyczarterowanymi i prowadzonymi przez nas, bez żadnych obcych kapitanów, instruktorów kulturalno-oświatowych, animatorów czasu wolnego, czy kierowników wycieczek.
+Rejs jaki jest każdy widzi - w ciągu dnia pływamy dwoma dużymi katamaranami pomiędzy wyspami Chorwacji, pijąc zimne napoje w pełnym słońcu; słysząc tylko odgłos fal uderzających o kadłub napędzanego wiatrem statku. Wieczorami stajemy obok siebie w marinach i odpoczywamy, albo idziemy w miasto.
 
-Zbieramy ludzi z MP (kto chce to może z dowolną liczbą osób towarzyszących) i w ciągu dnia pływamy dwoma (na razie) dużymi katamaranami pomiędzy wyspami Chorwacji, pijąc zimne napoje w pełnym słońcu; słysząc tylko odgłos fal uderzających o kadłub napędzanego wiatrem statku. Wieczorami stajemy obok siebie w marinach i odpoczywamy, albo idziemy w miasto.
-
-Będą okazje do zobaczenia kilku naprawdę fajnych miejsc, wyskoczenia z jachtu stojącego na kotwicy do morza i pływania w jeszcze w miarę ciepłym adriatyku, integracji i poznania - rozentuzjazmowanych okolicznościami - znajomych z pracy od mniej profesjonalnej strony, zapoznania się z ogólnie pojętym żeglarstwem, przepisami, prowadzeniem jachtu, piciem alkoholu... W którąś noc pewnie zwiążemy ze sobą dwa katamarany i rzucimy kotwice w środku zatoki.
-
-Myślę, że spokojnie można powiedzieć (a Ci, którzy już z nami pływali na pewno chętnie potwierdzą), że szykuje się *impreza roku*. Docelowy skład 20 osób (max według dokumentów jachtów to 24 osoby), najlepsi z najlepszych, najsympatyczniejsi z najsympatyczniejszych.
+Będą okazje do zobaczenia kilku naprawdę fajnych miejsc, wyskoczenia z jachtu stojącego na kotwicy do morza i pływania w jeszcze w miarę ciepłym adriatyku, integracji, zapoznania się z ogólnie pojętym żeglarstwem, przepisami, prowadzeniem jachtu, piciem alkoholu... W którąś noc pewnie zwiążemy ze sobą dwa katamarany i rzucimy kotwice w środku zatoki.
 
 ## Czym płyniemy?
 Jachty mamy aktualnie dwa:
@@ -21,9 +17,6 @@ W sumie każdy jacht jest zarejestrowany na **12 osób**, ale realnie **zakłada
 - **Dwa miejsca w mesie** (salon taki) - stół opuszcza się do poziomu kanapy i powstaje dwuosobowa koja.  
   *Nie biorę tych miejsc pod uwagę i zakładam, że pozostają puste, niemniej gdyby ktoś bardzo chciał dołączyć w ostatniej chwili, to oczywiście są dostępne, tylko musi pamiętać, ze mesa zamyka imprezę.*
 
-#### Jak wygląda kajuta dwuosobowa?
-Jak widać na zdjęciach producenta jest jedno kojo duże. Uprzedzając wątpliwości - wiem, że jeśli jedziemy na imprezę z pracy, to zazwyczaj nie śpimy w tym samym pokoju hotelowym, w jednym łóżku z kolegami i koleżankami z pracy, ale to jest jednak sport i rządzi się swoimi prawami. Poza tym to nie łóżko tylko podwójna koja z osobnymi kompletami pościeli etc.. Będziemy robić tak, żeby wszystkim było wygodnie i komfortowo.
-
 #### Jak wygląda sytuacja z łazienką dla kajut jednoosobowych?
 Na jachcie są tylko cztery łazienki - te przpisane do kajut dwuosobowych. Osoby z kajut jednoosobowych korzystają z łazienek w kajutach dwuosobowych. Poza tym prawie codzinnie będziemy cumować w marinach, gdzie dostępne będą sanitariaty.
 
@@ -38,7 +31,7 @@ Tak, żeby wszyscy którzy popili zaraz po przyjeździe zdążyli dojść do sie
 - Po wyokrętowaniu będę musiał załatwić jeszcze kilka spraw formalnych, co zajmie mi pewnie do dwóch godzin i możemy jechać
 
 # Gdzie?
-Chorwacja, Dalmacja środkowa. Pływamy od wyspy do wyspy. Czasem jakaś zatoka i postój na kotwicy. 
+Chorwacja, Dalmacja środkowa. Pływamy od wyspy do wyspy. Czasem jakaś zatoka i postój na kotwicy.
 
 ## Start i koniec
 
@@ -109,9 +102,6 @@ W całości - z pominięciem wyjść do knajp (pełne wyżywienie jest na jachci
 
 ## Czy w październiku nie jest za zimno na takie zabawy?
 *Zdecydowanie nie jest za zimno, zwłaszcza, że to pierwsza połowa października. Co prawda woda już się robi chłodna, ale spokojnie można jeszcze pływać.*
-
-## W co się ubrać?
-*Koszulki z krótkim rękawem, krótkie spodnie, spódniczki, sukienki etc., to są stroje na październik w Chorwacji - niemniej oczywiście coś ciepłego też warto zabrać, bo chłodno też bywa, a nawet jeśli nie, to sam wiatr na otwartym akwenie, nawet w pełnym słońcu potrafi wychłodzić*
 
 ## Czy jeśli realnie startujemy w niedzielę, to mogę przyjechać w niedzielę rano?
 *Nie można, w sobotę będą:*
