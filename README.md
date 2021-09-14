@@ -40,6 +40,8 @@ Tak, żeby wszyscy którzy popili zaraz po przyjeździe zdążyli dojść do sie
 # Gdzie?
 Chorwacja, Dalmacja środkowa. Pływamy od wyspy do wyspy. Czasem jakaś zatoka i postój na kotwicy. 
 
+![Chorwacja](mapa_zwykla.png)
+
 ## Start i koniec
 
 Startujemy z **Trogiru** i **Splitu** w zależności od jachtu:
