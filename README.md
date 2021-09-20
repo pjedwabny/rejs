@@ -72,13 +72,7 @@ Jeśli ktoś chce sobie wyobrazić zasięg, to można bezpiecznie przyjąć, że
 Kosztów mamy trzy rodzaje (plus wydatki własne):
 
 ## Miejsce na jachcie
-Czyli tzw. kojowe. Z tego opłacamy:
-- Czarter jachtu
-- Ubezpieczenie jachtu
-- Ubezpieczenie turystyczne załogi (koszty leczenia, ratownictwo, NNW, OC, bagaż)
-- Podatek turystyczny
-- Sprzątanie końcowe
-- Wypożyczenie silnika zaburtowego do pontonu
+Czyli tzw. kojowe. Z tego opłacamy czarter jachtu i koszty operacyjne z tym związane, pośrednika etc..
 
 W zależności od wybranego miejsca (patrz opis jachtu) w kajucie..:
 
@@ -93,6 +87,11 @@ Płatne w 2 ratach:
 
 ## Składka jachtowa
 To jest składka załogi danej jednostki na różne wydatki związane z pobytem na jachcie. Między innymi:
+- Ubezpieczenie turystyczne załogi (koszty leczenia, ratownictwo, NNW, OC, bagaż)
+- Podatek turystyczny
+- Sprzątanie końcowe
+- Wypożyczenie silnika zaburtowego do pontonu
+- Pościel, ręczniki
 - Wspólna żywność i napoje
 - Opłaty za postój w portach
 - Koszty paliwa
