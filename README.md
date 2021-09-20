@@ -76,8 +76,8 @@ Czyli tzw. kojowe. Z tego opłacamy czarter jachtu i koszty operacyjne z tym zwi
 
 W zależności od wybranego miejsca (patrz opis jachtu) w kajucie..:
 
-- 1 os. - **1300 zł**
-- 2 os. - **1500 zł**
+- 1 osobowej - **1300 zł**
+- 2 osobowej - **1500 zł**
 
 Płatne w 2 ratach:
 - 500 zł - jak najszybciej, celem zarezerwowania miejsca *(przepadająca w przypadku rezygnacji)* *
