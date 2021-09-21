@@ -13,17 +13,24 @@ Jachty mamy aktualnie dwa:
 - Lagoon 400 S2 (rok produkcji 2018) - https://www.cata-lagoon.com/en/40
 
 ---
+
 |![](z_przodu.jpg)|
 |:--:| 
 | *Cały jacht, z przodu siatki do wypoczynku, wcześniej loża. Osoby na zdjęciu dla skali.* |
+
+---
 
 |![](loza.jpg)|
 |:--:| 
 | *Wspomniana loża dziobowa i siatki* |
 
+---
+
 |![](rufa.jpg)|
 |:--:| 
 | *Z tyłu to wygląda tak. Warto zwrócić uwagę na opuszczany na dźwigu ponton z własnym silnikiem. Z lewej strony trap do schodzenia na ląd, z prawej drabinka do wchodzenia na jacht z wody.* |
+
+---
 
 |![](kokpit.jpg)|
 |:--:| 
@@ -35,6 +42,8 @@ Jachty mamy aktualnie dwa:
 |:--:|
 | *Przyjemnie prowadzić jacht, siedząc w kilka osób w ustawionym nad kokpitem i mesą mostku* |
 
+---
+
 |![](ster_i_materace.jpg) |
 |:--:|
 | *Albo wypoczywać na materacach tuż przed mostkiem* |
@@ -45,6 +54,8 @@ Jachty mamy aktualnie dwa:
 |:--:| 
 | *Mesa, przestrzeń wspólna. Po prawej widać też radiostację. Stół ma specyficzną konstrukcję, pozwalającą na opuszczenie do poziomu kanap; a oparcia układają się na stole tworząc dodatkowe miejsca do spania.* |
 
+---
+
 |![](kuchnia.jpg)|
 |:--:| 
 | *W kuchni wszystko czego potrzeba do przygotowania posiłku. Lodówka, zamrażalnik, piekarnik, kuchenka, zlew, etc.* |
@@ -54,6 +65,8 @@ Jachty mamy aktualnie dwa:
 |![](kajuta.jpg)|
 |:--:| 
 | *Kajuta dwuosobowa, okna, lampki nocne. Nie widać tego na zdjęciu, ale każda ma dwa osobne zestawy pościeli oczywiście.* |
+
+---
 
 |![](lazienka.jpg)|
 |:--:| 
