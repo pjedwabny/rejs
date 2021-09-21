@@ -1,16 +1,16 @@
 # Jaki rejs?
-Najprawdziwszy rejs, najprawdziwszymi jachtami, wyczarterowanymi i prowadzonymi przez nas, bez żadnych obcych kapitanów, instruktorów kulturalno-oświatowych, animatorów czasu wolnego, czy kierowników wycieczek.
+Najprawdziwszy rejs, najprawdziwszymi jachtami, wyczarterowanymi i prowadzonymi przez nas, bez żadnych obcych skipperów, instruktorów kulturalno-oświatowych, animatorów czasu wolnego, czy kierowników wycieczek. Inicjatywa całkowicie oddolna.
 
-Zbieramy ludzi z MP (kto chce to może z dowolną liczbą osób towarzyszących) i w ciągu dnia pływamy dwoma (na razie) dużymi katamaranami pomiędzy wyspami Chorwacji, pijąc zimne napoje w pełnym słońcu; słysząc tylko odgłos fal uderzających o kadłub napędzanego wiatrem statku. Wieczorami stajemy obok siebie w marinach i odpoczywamy, albo idziemy w miasto.
+Zbieramy koleżanki i kolegów z MP (*kto chce to może z dowolną liczbą osób towarzyszących*) i w ciągu dnia pływamy **dwoma dużymi** katamaranami pomiędzy wyspami Chorwacji, pijąc zimne napoje w pełnym słońcu; słysząc tylko odgłos fal uderzających o kadłub napędzanego wiatrem statku. Wieczorami stajemy obok siebie w marinach i odpoczywamy, robimy imprezę, albo idziemy w miasto.
 
 Będą okazje do zobaczenia kilku naprawdę fajnych miejsc, wyskoczenia z jachtu stojącego na kotwicy do morza i pływania w jeszcze w miarę ciepłym adriatyku, integracji i poznania - rozentuzjazmowanych okolicznościami - znajomych z pracy od mniej profesjonalnej strony, zapoznania się z ogólnie pojętym żeglarstwem, przepisami, prowadzeniem jachtu, piciem alkoholu... W którąś noc pewnie zwiążemy ze sobą dwa katamarany i rzucimy kotwice w środku zatoki.
 
-Myślę, że spokojnie można powiedzieć (a Ci, którzy już z nami pływali na pewno chętnie potwierdzą), że szykuje się *impreza roku*. Docelowy skład 20 osób (max według dokumentów jachtów to 24 osoby), najlepsi z najlepszych, najsympatyczniejsi z najsympatyczniejszych.
+Myślę, że spokojnie można powiedzieć (*a Ci, którzy już z nami pływali na pewno chętnie potwierdzą*), że szykuje się *impreza roku*. Docelowy skład **20 osób** (max według dokumentów jachtów to 24 osoby), najlepsi z najlepszych, najsympatyczniejsi z najsympatyczniejszych.
 
 ## Czym płyniemy?
 Jachty mamy aktualnie dwa:
-- Lagoon 450 (rok produkcji 2020) - https://www.cata-lagoon.com/en/450-s
-- Lagoon 400 S2 (rok produkcji 2018) - https://www.cata-lagoon.com/en/40
+- Lagoon 450 (rok produkcji **2020**) - <https://www.cata-lagoon.com/en/450-s>
+- Lagoon 400 S2 (rok produkcji **2018**) - <https://www.cata-lagoon.com/en/40>
 
 ---
 
@@ -64,7 +64,7 @@ Jachty mamy aktualnie dwa:
 
 |![](kajuta.jpg)|
 |:--:| 
-| *Kajuta dwuosobowa, okna, lampki nocne. Nie widać tego na zdjęciu, ale każda ma dwa osobne zestawy pościeli oczywiście.* |
+| *Kajuta dwuosobowa, okna, lampki nocne. Nie widać tego na zdjęciu, ale każda kajuta dwuosobowa ma dwa osobne zestawy pościeli oczywiście.* |
 
 ---
 
@@ -79,31 +79,33 @@ Jachty mamy aktualnie dwa:
 ---
 
 ### Jak duże te jachty, ile jest miejsc?
-W sumie każdy jacht jest zarejestrowany na **12 osób**, ale realnie **zakładamy po 10**:
+Technicznie każdy jacht jest zarejestrowany na **12 osób**, ale realnie **zakładamy po 10**:
 ![](schemat.jpg)
-- **Cztery kajuty 2 os.** *z własną łazienką i prysznicem*, połączone korytarzem i schodami z mesą
+- **Cztery kajuty dwuosobowe** *z własną łazienką i prysznicem*, połączone korytarzem i schodami z mesą
 - **Dwie kajuty jednoosobowe**, bez łazienki do których wchodzi się z pokładu przez świetlik w suficie - **skajlajt**. Są to pewne minusy, ale pojedyncza kajuta jest też plusem.
 - **Dwa miejsca w mesie** (salon taki) - stół opuszcza się do poziomu kanapy i powstaje dwuosobowa koja.  
-  *Nie biorę tych miejsc pod uwagę i zakładam, że pozostają puste, niemniej gdyby ktoś bardzo chciał dołączyć w ostatniej chwili, to oczywiście są dostępne, tylko musi pamiętać, ze mesa zamyka imprezę.*
+  >*Nie biorę tych miejsc pod uwagę i zakładam, że pozostają puste, niemniej gdyby ktoś bardzo chciał dołączyć w ostatniej chwili, to oczywiście są dostępne, tylko musi pamiętać, ze mesa zamyka imprezę.*
 
 #### Jak wygląda kajuta dwuosobowa?
-Jak widać na zdjęciach producenta jest jedno kojo duże. Uprzedzając wątpliwości - wiem, że jeśli jedziemy na imprezę z pracy, to zazwyczaj nie śpimy w tym samym pokoju hotelowym, w jednym łóżku z kolegami i koleżankami z pracy, ale to jest jednak sport i rządzi się swoimi prawami. Poza tym to nie łóżko tylko podwójna koja z osobnymi kompletami pościeli etc.. Będziemy robić tak, żeby wszystkim było wygodnie i komfortowo.
+Jak widać na zdjęciach producenta jest jedno kojo duże. W niektórych przypadkach są też [koje z możliwością rozdzielenia](https://www.blue-sails.com/wp-content/uploads/2018/09/int_45R0355_L450.jpg), ale tego nie gwarantuję.
+
+>Uprzedzając wątpliwości - wiem, że jeśli jedziemy na wyjazd ze znajomymi z pracy, to zazwyczaj nie śpimy z nimi w jednym łóżku. Różnica jest taka, że to nie jest łóżko, tylko podwójna koja i nie pokój w hotelu tylko kajuta. To jest sport i tak to w tym sporcie wygląda. Będziemy rozkładać osoby w taki sposób, żeby każdy czuł się komfortowo.
 
 #### Jak wygląda sytuacja z łazienką dla kajut jednoosobowych?
-Na jachcie są tylko cztery łazienki - te przpisane do kajut dwuosobowych. Osoby z kajut jednoosobowych korzystają z łazienek w kajutach dwuosobowych. Poza tym prawie codzinnie będziemy cumować w marinach, gdzie dostępne będą sanitariaty.
+**Na jachcie są tylko cztery łazienki** - te przypisane do kajut dwuosobowych. Osoby z kajut jednoosobowych korzystają z łazienek w kajutach dwuosobowych. Poza tym prawie codziennie będziemy cumować w marinach, gdzie **dostępne będą sanitariaty**.
 
 # Kiedy?
 
 Impreza dzieje się w październiku **09.10 - 16.10** (sobota - sobota):
 - **Zaokrętowanie** (zasiedlenie) powinno być możliwe wczesnym popołudniem **09 października (sobota)**
 - Żeglugę rozpoczynamy następnego dnia, w **niedzielę** około **10 rano**  
-Tak, żeby wszyscy którzy popili zaraz po przyjeździe zdążyli dojść do siebie, Ci co zapomnieli o czymś super ważnym do kupienia zdążyli wstać rano kupić i wrócić, spóźnieni zdążyli dojechać etc..
+  >Tak, żeby wszyscy którzy popili zaraz po przyjeździe zdążyli dojść do siebie, Ci co zapomnieli o czymś super ważnym do kupienia zdążyli wstać rano kupić i wrócić, spóźnieni zdążyli dojechać etc..
 - Żeglugę kończymy w **piątek** wieczorem
 - **Wyokrętowanie** (opuszczenie jednostki) musimy przeprowadzić do **9:00 16 października (sobota)**
 - Po wyokrętowaniu będę musiał załatwić jeszcze kilka spraw formalnych, co zajmie mi pewnie do dwóch godzin i możemy jechać
 
 # Gdzie?
-Chorwacja, Dalmacja środkowa. Pływamy od wyspy do wyspy. Czasem jakaś zatoka i postój na kotwicy. 
+Chorwacja, Dalmacja środkowa. Pływamy od wyspy do wyspy - zazwyczaj w ciągu dnia. Czasem jakaś zatoka i postój na kotwicy.
 
 [![Chorwacja](mapa_zwykla.png)](mapa_zwykla.png)
 
@@ -157,16 +159,29 @@ To jest składka załogi danej jednostki na różne wydatki związane z pobytem 
 - Sprzątanie końcowe
 - Wypożyczenie silnika zaburtowego do pontonu
 - Pościel, ręczniki
-- Wspólna żywność i napoje
+- Żywność
+- Alkohole
 - Opłaty za postój w portach
 - Koszty paliwa
 
-Ile tego wyjdzie dokładnie jest jeszcze niewiadomą, ponieważ nie wiemy ile zużyjemy paliwa, ile zakupów spożywczych trzeba będzie zrobić w trakcie rejsu i ile alkoholu pójdzie, ale można się spodziewać nie mniej niż **400zł** i nie więcej niż **750 zł**.
+Ile tego wyjdzie dokładnie jest jeszcze niewiadomą, ponieważ nie wiemy ile zużyjemy paliwa, ile zakupów spożywczych trzeba będzie zrobić w trakcie rejsu i ile alkoholu pójdzie, ale można się spodziewać nie więcej niż **750 zł**.
 
-Zaczynamy od **500 zł** bezpośrednio przed rejsem. Szczegóły będą do ustalenia z załogami i ekipami robiącymi zakupy.
+Zaczynamy od około **500 zł** bezpośrednio przed rejsem (najlepiej podczas spotkania przedrejsowego):
+- **50 €** na rzeczy typu pościel, ręczniki, podatek turystyczny, ubezpieczenia...
+- **200 zł** na zakupy spożywcze w Polsce
+- **100 kun** na zakupy spożywcze w Chorwacji (jeszcze przed rejsem)
 
 ## Dojazd
-Z Krakowa jest **1200 km** drogą lądową, przed wyruszeniem będziemy się umawiać konkretniej kto chciałby prowadzić, czy bierzemy samochód z wypożyczalni, czy ktoś ma, czy może jest dostępny z mp jakiś, etc.. Orientacyjnie mi wychodziło około **350 zł** za osobę.
+Z Krakowa jest około **1200 km** drogą lądową. Myślę, że najlepiej przez:
+- Polskę - 147 km, bramki 40 zł
+- Czechy - 233 km, winieta 50 zł
+- Austrię - 317 km, winieta 42 zł
+- Słowenię - 67 km, winieta 66 zł
+- Chorwację - 454 km, bramki 130 zł
+
+> Warto mieć na uwadze, że winiety są na 10 dni, więc wystarczą też na powrót
+
+Jest kilka osób jadących swoimi samochodami i chętnych do zabrania pasażerów. Niektórzy są chętni do jazdy w piątek rano i postoju na noc w okolicach Słowenii, inni chcą jechać "na raz" - wybór jest duży i na pewno uda się bez problemu wszystkich dograć.
 
 ## Podsumowanie
-W całości - z pominięciem wyjść do knajp (pełne wyżywienie jest na jachcie w ramach składki) - wychodzi realnie *za wszystko* w granicach **2200 zł - 2700 zł**.
+W całości - z pominięciem wyjść do knajp (**pełne wyżywienie jest na jachcie w ramach składki**) - wychodzi realnie *za wszystko* w granicach **2200 zł - 2700 zł**.
