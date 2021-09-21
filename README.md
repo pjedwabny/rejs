@@ -74,7 +74,7 @@ Jachty mamy aktualnie dwa:
 
 --- 
 
-> *Tutaj chciałbym zaznaczyć, że to są **dokładnie te modele**, niemniej na zdjęciach zawsze wszystko wygląda lepiej (zwłaszcza na zdjęciach producenta) - ale też spokojnie, patrzcie na rok produkcji*
+> *Tutaj chciałbym zaznaczyć, że to są **dokładnie te modele**, niemniej na zdjęciach zawsze wszystko wygląda lepiej (zwłaszcza na zdjęciach producenta) - ale też spokojnie, patrzcie na lata produkcji - **2020** i **2018**!*
 
 ---
 
