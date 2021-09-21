@@ -33,6 +33,8 @@ Tak, żeby wszyscy którzy popili zaraz po przyjeździe zdążyli dojść do sie
 # Gdzie?
 Chorwacja, Dalmacja środkowa. Pływamy od wyspy do wyspy. Czasem jakaś zatoka i postój na kotwicy.
 
+![Chorwacja](mapa_zwykla.png)
+
 ## Start i koniec
 
 Startujemy z **Trogiru** i **Splitu** w zależności od jachtu:
@@ -63,18 +65,12 @@ Jeśli ktoś chce sobie wyobrazić zasięg, to można bezpiecznie przyjąć, że
 Kosztów mamy trzy rodzaje (plus wydatki własne):
 
 ## Miejsce na jachcie
-Czyli tzw. kojowe. Z tego opłacamy:
-- Czarter jachtu
-- Ubezpieczenie jachtu
-- Ubezpieczenie turystyczne załogi (koszty leczenia, ratownictwo, NNW, OC, bagaż)
-- Podatek turystyczny
-- Sprzątanie końcowe
-- Wypożyczenie silnika zaburtowego do pontonu
+Czyli tzw. kojowe. Z tego opłacamy czarter jachtu i koszty operacyjne z tym związane, pośrednika etc..
 
 W zależności od wybranego miejsca (patrz opis jachtu) w kajucie..:
 
-- 1 os. - **1300 zł**
-- 2 os. - **1500 zł**
+- 1 osobowej - **1300 zł**
+- 2 osobowej - **1500 zł**
 
 Płatne w 2 ratach:
 - zaliczka 500 zł - celem rezerwacji miejsca *(przepadająca w przypadku rezygnacji)* *
@@ -89,6 +85,11 @@ Tytułem: Rejs październik, imię i nazwisko uczestników za których jest wpł
 
 ## Składka jachtowa
 To jest składka załogi danej jednostki na różne wydatki związane z pobytem na jachcie. Między innymi:
+- Ubezpieczenie turystyczne załogi (koszty leczenia, ratownictwo, NNW, OC, bagaż)
+- Podatek turystyczny
+- Sprzątanie końcowe
+- Wypożyczenie silnika zaburtowego do pontonu
+- Pościel, ręczniki
 - Wspólna żywność i napoje
 - Opłaty za postój w portach
 - Koszty paliwa
