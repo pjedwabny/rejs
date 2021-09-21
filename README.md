@@ -54,8 +54,8 @@ Mariny są od siebie oddalone o 30 km trasą samochodową
 To nie jest na razie wiadome i zależeć będzie od pogody jaką zastaniemy, ale podam hasłowo możliwe lokalizacje:
 - Starigrad
 - Zadar
-- Kornaty
-- Szybernik
+- Kornati
+- Szybenik
 - Skradin (+ wodospady Krka)
 - Vis
 - Hvar
@@ -64,7 +64,7 @@ To nie jest na razie wiadome i zależeć będzie od pogody jaką zastaniemy, ale
 
 Należy wybrać sobie jakieś 4 z powyższych
 
-Jeśli ktoś chce sobie wyobrazić zasięg, to można bezpiecznie przyjąć, że poruszamy się po wodzie co najmniej **5 kn** i nie więcej niż **10 kn** (węzłów, czyli mil morskich na godzinę; mila to 1,852km) czyli **9,26 km/h** - **18,52 km/h** i nie dłużej niż **10h dzinnie**
+Jeśli ktoś chce sobie wyobrazić zasięg, to można bezpiecznie przyjąć, że poruszamy się po wodzie co najmniej **5 kn** i nie więcej niż **10 kn** (węzłów, czyli mil morskich na godzinę; mila to 1,852km) czyli **9,26 km/h** - **18,52 km/h** i nie dłużej niż **10h dziennie**
 
 
 
@@ -101,7 +101,7 @@ Ile tego wyjdzie dokładnie jest jeszcze niewiadomą, ponieważ nie wiemy ile zu
 Zaczynamy od **500 zł** bezpośrednio przed rejsem. Szczegóły będą do ustalenia z załogami i ekipami robiącymi zakupy.
 
 ## Dojazd
-Z Krakowa jest **1200 km** drogą lądową, przed wyruszeniem będziemy się umawiać konkretniej kto chciałby prowadzic, czy bierzemy samochód z wypożyczalni, czy ktoś ma, czy może jest dostępny z mp jakiś, etc.. Orientacyjnie mi wychodziło około **350 zł** za osobę.
+Z Krakowa jest **1200 km** drogą lądową, przed wyruszeniem będziemy się umawiać konkretniej kto chciałby prowadzić, czy bierzemy samochód z wypożyczalni, czy ktoś ma, czy może jest dostępny z mp jakiś, etc.. Orientacyjnie mi wychodziło około **350 zł** za osobę.
 
 ## Podsumowanie
-W całości - z pominięciem wyjść do knajp (pełne wyżywienie jest na jachcie w ramach składki) - wychodzi relnie *za wszystko* w granicach **2200 zł - 2700 zł**.
+W całości - z pominięciem wyjść do knajp (pełne wyżywienie jest na jachcie w ramach składki) - wychodzi realnie *za wszystko* w granicach **2200 zł - 2700 zł**.
