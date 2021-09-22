@@ -7,7 +7,7 @@ description: Holistyczne podejście do żeglarstwa
 # Jaki rejs?
 Najprawdziwszy rejs, najprawdziwszymi jachtami, wyczarterowanymi i prowadzonymi przez nas, bez żadnych obcych skipperów, instruktorów kulturalno-oświatowych, animatorów czasu wolnego, czy kierowników wycieczek. Inicjatywa całkowicie oddolna.
 
-Zbieramy koleżanki i kolegów z MP (*kto chce to może z dowolną liczbą osób towarzyszących*) i w ciągu dnia pływamy **dwoma dużymi** katamaranami pomiędzy wyspami Chorwacji, pijąc zimne napoje w pełnym słońcu; słysząc tylko odgłos fal uderzających o kadłub napędzanego wiatrem statku. Wieczorami stajemy obok siebie w marinach i odpoczywamy, robimy imprezę, albo idziemy w miasto.
+Zbieramy Koleżanki i Kolegów z MP (*wraz z dowolną liczbą osób towarzyszących*) i w ciągu dnia pływamy **dwoma dużymi** katamaranami pomiędzy wyspami Chorwacji, pijąc zimne napoje w pełnym słońcu; słysząc tylko odgłos fal uderzających o kadłub napędzanego wiatrem statku. Wieczorami stajemy obok siebie w marinach i odpoczywamy, robimy imprezę, albo idziemy w miasto.
 
 Będą okazje do zobaczenia kilku naprawdę fajnych miejsc, wyskoczenia z jachtu stojącego na kotwicy do morza i pływania w jeszcze w miarę ciepłym adriatyku, integracji i poznania - rozentuzjazmowanych okolicznościami - znajomych z pracy od mniej profesjonalnej strony, zapoznania się z ogólnie pojętym żeglarstwem, przepisami, prowadzeniem jachtu, piciem alkoholu... W którąś noc pewnie zwiążemy ze sobą dwa katamarany i rzucimy kotwice w środku zatoki.
 
