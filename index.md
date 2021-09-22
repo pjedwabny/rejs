@@ -207,7 +207,7 @@ W całości - z pominięciem wyjść do knajp (**pełne wyżywienie jest na jach
 - *Wykład o działaniu jachtu*
 - *Podział na **wachty** (zmiany), zwłaszcza w kwestii **kambuzu** (kuchni)*
 
-*Oczywiście jeśli ktoś będzie miał sytuację, że nie może inaczej niż w niedzielę, albo coś się wysypie i nie zdąży to nic się strasznego nie stanie, ale nie jest to sytuacja pożądana. Jeśli natomiast ktoś się spóźni bardziej niż południe w niedzielę, to będzie musiał nas łapać w innym porcie na jakiejś wyspie. Promy są, nawet chyba jest Uber Boats, więc dostanie się bez (**ekstra dużego**) problemu.*
+*Oczywiście jeśli ktoś będzie miał sytuację, że nie może inaczej niż w niedzielę, albo coś się wysypie i nie zdąży to nic się strasznego nie stanie, ale nie jest to sytuacja pożądana. Jeśli natomiast ktoś się spóźni bardziej niż południe w niedzielę, to będzie musiał nas łapać w innym porcie na jakiejś wyspie. Promy są, więc dostanie się bez (**ekstra dużego**) problemu.*
 
 ## Co to znaczy, że kończymy żeglugę w piątek?
 *To znaczy, że w piątek wieczorem musimy być już w porcie, żeby uniknąć sytuacji w której spóźnimy się ze zdaniem jachtu w sobotę rano, ponieważ armator musi zdążyć przygotować jednostkę na kolejny czarter.*
