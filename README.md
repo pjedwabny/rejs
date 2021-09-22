@@ -1,3 +1,9 @@
+---
+layout: default
+title: Rejs MP
+description: Holistyczne podejście do żeglarstwa
+---
+
 # Jaki rejs?
 Najprawdziwszy rejs, najprawdziwszymi jachtami, wyczarterowanymi i prowadzonymi przez nas, bez żadnych obcych skipperów, instruktorów kulturalno-oświatowych, animatorów czasu wolnego, czy kierowników wycieczek. Inicjatywa całkowicie oddolna.
 
