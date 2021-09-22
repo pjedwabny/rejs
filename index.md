@@ -192,7 +192,7 @@ Jest kilka osób jadących swoimi samochodami i chętnych do zabrania pasażeró
 ## Podsumowanie
 W całości - z pominięciem wyjść do knajp (**pełne wyżywienie jest na jachcie w ramach składki**) - wychodzi realnie *za wszystko* w granicach **2200 zł - 2700 zł**.
 
-# FAQ
+# FAQ - często zadawane pytania
 
 ## Czy w październiku nie jest za zimno na takie zabawy?
 *Zdecydowanie nie jest za zimno, zwłaszcza, że to pierwsza połowa października. Co prawda woda już się robi chłodna, ale spokojnie można jeszcze pływać.*
