@@ -51,6 +51,13 @@ Jachty mamy aktualnie dwa:
 
 ---
 
+|![](ploter.jpg) |
+|:--:|
+| *Widok z miejsca sternika. Dociekliwi zobaczą, że sternik był leniwy i ma kurs 315° na autopilocie. Dwie manetki po prawej, to manetki od **dwóch silników**. Chorwacja 2020, zdjęcie własne.* |
+
+---
+
+
 |![](mesa.jpg)|
 |:--:| 
 | *Mesa, przestrzeń wspólna. Po prawej widać też radiostację. Stół ma specyficzną konstrukcję, pozwalającą na opuszczenie do poziomu kanap; a oparcia układają się na stole tworząc dodatkowe miejsca do spania.* |
