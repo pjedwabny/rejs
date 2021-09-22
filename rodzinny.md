@@ -1,16 +1,12 @@
 ---
 layout: default
-title: Rejs MP
-description: Holistyczne podejście do żeglarstwa
+title: Rejs Rodzinny
+description: 02 października - 09 października
 ---
 # Jaki rejs?
-Najprawdziwszy rejs, najprawdziwszymi jachtami, wyczarterowanymi i prowadzonymi przez nas, bez żadnych obcych skipperów, instruktorów kulturalno-oświatowych, animatorów czasu wolnego, czy kierowników wycieczek. Inicjatywa całkowicie oddolna.
+Rejs jaki jest każdy widzi - w ciągu dnia pływamy dwoma dużymi katamaranami pomiędzy wyspami Chorwacji, pijąc zimne napoje w pełnym słońcu; słysząc tylko odgłos fal uderzających o kadłub napędzanego wiatrem statku. Wieczorami stajemy obok siebie w marinach i odpoczywamy, albo idziemy w miasto.
 
-Zbieramy Koleżanki i Kolegów z MP (*wraz z dowolną liczbą osób towarzyszących*) i w ciągu dnia pływamy **dwoma dużymi** katamaranami pomiędzy wyspami Chorwacji, pijąc zimne napoje w pełnym słońcu; słysząc tylko odgłos fal uderzających o kadłub napędzanego wiatrem statku. Wieczorami stajemy obok siebie w marinach i odpoczywamy, robimy imprezę, albo idziemy w miasto.
-
-Będą okazje do zobaczenia kilku naprawdę fajnych miejsc, wyskoczenia z jachtu stojącego na kotwicy do morza i pływania w jeszcze w miarę ciepłym adriatyku, integracji i poznania - rozentuzjazmowanych okolicznościami - znajomych z pracy od mniej profesjonalnej strony, zapoznania się z ogólnie pojętym żeglarstwem, przepisami, prowadzeniem jachtu, piciem alkoholu... W którąś noc pewnie zwiążemy ze sobą dwa katamarany i rzucimy kotwice w środku zatoki.
-
-Myślę, że spokojnie można powiedzieć (*a Ci, którzy już z nami pływali na pewno chętnie potwierdzą*), że szykuje się *impreza roku*. Docelowy skład **20 osób** (max według dokumentów jachtów to 24 osoby), najlepsi z najlepszych, najsympatyczniejsi z najsympatyczniejszych.
+Będą okazje do zobaczenia kilku naprawdę fajnych miejsc, wyskoczenia z jachtu stojącego na kotwicy do morza i pływania w jeszcze w miarę ciepłym adriatyku, integracji, zapoznania się z ogólnie pojętym żeglarstwem, przepisami, prowadzeniem jachtu, piciem alkoholu... W którąś noc pewnie zwiążemy ze sobą dwa katamarany i rzucimy kotwice w środku zatoki.
 
 ## Czym płyniemy?
 Jachty mamy aktualnie dwa:
@@ -94,20 +90,18 @@ Technicznie każdy jacht jest zarejestrowany na **12 osób**, ale realnie **zak�
 #### Jak wygląda kajuta dwuosobowa?
 Jak widać na zdjęciach producenta jest jedno kojo duże. W niektórych przypadkach są też [koje z możliwością rozdzielenia](https://www.blue-sails.com/wp-content/uploads/2018/09/int_45R0355_L450.jpg), ale tego nie gwarantuję.
 
->Uprzedzając wątpliwości - wiem, że jeśli jedziemy na wyjazd ze znajomymi z pracy, to zazwyczaj nie śpimy z nimi w jednym łóżku. Różnica jest taka, że to nie jest łóżko, tylko podwójna koja i nie pokój w hotelu tylko kajuta. To jest sport i tak to w tym sporcie wygląda. Będziemy rozkładać osoby w taki sposób, żeby każdy czuł się komfortowo.
 
 #### Jak wygląda sytuacja z łazienką dla kajut jednoosobowych?
 **Na jachcie są tylko cztery łazienki** - te przypisane do kajut dwuosobowych. Osoby z kajut jednoosobowych korzystają z łazienek w kajutach dwuosobowych. Poza tym prawie codziennie będziemy cumować w marinach, gdzie **dostępne będą sanitariaty**.
 
 # Kiedy?
 
-Impreza dzieje się w październiku **09.10 - 16.10** (sobota - sobota):
-- **Zaokrętowanie** (zasiedlenie) powinno być możliwe wczesnym popołudniem **09 października (sobota)**
+Impreza dzieje się w październiku **02.10 - 09.10** (sobota - sobota):
+- **Zaokrętowanie** (zasiedlenie) powinno być możliwe popołudniem **2 października (sobota)**
 - Żeglugę rozpoczynamy następnego dnia, w **niedzielę** około **10 rano**  
-  >Tak, żeby wszyscy którzy popili zaraz po przyjeździe zdążyli dojść do siebie, Ci co zapomnieli o czymś super ważnym do kupienia zdążyli wstać rano kupić i wrócić, spóźnieni zdążyli dojechać etc..
+>Tak, żeby wszyscy którzy popili zaraz po przyjeździe zdążyli dojść do siebie, Ci co zapomnieli o czymś super ważnym do kupienia zdążyli wstać rano kupić i wrócić, spóźnieni zdążyli dojechać etc..
 - Żeglugę kończymy w **piątek** wieczorem
-- **Wyokrętowanie** (opuszczenie jednostki) musimy przeprowadzić do **9:00 16 października (sobota)**
-- Po wyokrętowaniu będę musiał załatwić jeszcze kilka spraw formalnych, co zajmie mi pewnie do dwóch godzin i możemy jechać
+- **Wyokrętowanie** (opuszczenie jednostki) musimy przeprowadzić do **9:00 9 października (sobota)**
 
 # Gdzie?
 Chorwacja, Dalmacja środkowa. Pływamy od wyspy do wyspy - zazwyczaj w ciągu dnia. Czasem jakaś zatoka i postój na kotwicy.
@@ -155,7 +149,12 @@ Płatne w 2 ratach:
 - 500 zł - jak najszybciej, celem zarezerwowania miejsca *(przepadająca w przypadku rezygnacji)* *
 - reszta - do *15.09*, kwota w zależności od wybranego miejsca
 
-\* \- *Zaliczka jest przepadająca, ponieważ jacht kosztuje tyle samo niezależnie od tego ile osób nim popłynie, a cena za osobę jest stała, więc koniecznym jest zapewnienie za te pieniądze atrakcyjniejszych warunków dla osób, które trzeba będzie znaleźć na zastępstwo.* 
+\* \- *Zaliczka jest przepadająca, ponieważ jacht kosztuje tyle samo niezależnie od tego ile osób nim popłynie, a cena za osobę jest stała, więc koniecznym jest zapewnienie za te pieniądze atrakcyjniejszych warunków dla osób, które trzeba będzie znaleźć na zastępstwo.*
+
+### Dane do wpłaty
+Paweł Jedwabny  
+24 1160 2202 0000 000 3065 05531  
+Tytułem: Rejs październik, imię i nazwisko uczestników za których jest wpłata
 
 ## Składka jachtowa
 To jest składka załogi danej jednostki na różne wydatki związane z pobytem na jachcie. Między innymi:
@@ -218,7 +217,7 @@ W całości - z pominięciem wyjść do knajp (**pełne wyżywienie jest na jach
 *Nie, w piątek wieczorem po zaparkowaniu jachtu idziemy na miasto wspominać jak było super.*
 
 - Czy to znaczy, że w piątek śpimy w hotelu?  
-*Nie, w piątek śpimy normalnie na jachcie. Musimy go tylko opuścić przed **9 rano***
+*Nie, w piątek śpimy normalnie na jachcie. Musimy go tylko opuścić przed **10 rano***
 
 - Czy jeśli kończymy żeglugę w piątek, to mogę już wtedy pojechać do domu/gdziekolwiek indziej?  
 *Jeśli masz transport to tak, jak najbardziej, ale wszystkim będzie przykro :D*
