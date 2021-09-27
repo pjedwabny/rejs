@@ -94,8 +94,7 @@ Technicznie każdy jacht jest zarejestrowany na **12 osób**, ale realnie **zak�
 ![](schemat.jpg)
 - **Cztery kajuty dwuosobowe** *z własną łazienką i prysznicem*, połączone korytarzem i schodami z mesą
 - **Dwie kajuty jednoosobowe**, bez łazienki do których wchodzi się z pokładu przez świetlik w suficie - **skajlajt**. Są to pewne minusy, ale pojedyncza kajuta jest też plusem.
-- **Dwa miejsca w mesie** (salon taki) - stół opuszcza się do poziomu kanapy i powstaje dwuosobowa koja.  
-  >*Nie biorę tych miejsc pod uwagę i zakładam, że pozostają puste, niemniej gdyby ktoś bardzo chciał dołączyć w ostatniej chwili, to oczywiście są dostępne, tylko musi pamiętać, ze mesa zamyka imprezę.*
+- **Dwa miejsca w mesie** (salon taki) - stół opuszcza się do poziomu kanapy i powstaje dwuosobowa koja zwana również *dinietką*.
 
 #### Jak wygląda kajuta dwuosobowa?
 Jak widać na zdjęciach producenta jest jedno kojo duże. W niektórych przypadkach są też [koje z możliwością rozdzielenia](https://www.blue-sails.com/wp-content/uploads/2018/09/int_45R0355_L450.jpg), ale tego nie gwarantuję.
@@ -156,6 +155,7 @@ W zależności od wybranego miejsca (patrz opis jachtu) w kajucie..:
 
 - 1 osobowej - **1300 zł**
 - 2 osobowej - **1500 zł**
+- w mesie - **900 zł**
 
 Płatne w 2 ratach:
 - 500 zł - jak najszybciej, celem zarezerwowania miejsca *(przepadająca w przypadku rezygnacji)* *
