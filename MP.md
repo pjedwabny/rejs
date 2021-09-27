@@ -163,6 +163,11 @@ Płatne w 2 ratach:
 
 \* \- *Zaliczka jest przepadająca, ponieważ jacht kosztuje tyle samo niezależnie od tego ile osób nim popłynie, a cena za osobę jest stała, więc koniecznym jest zapewnienie za te pieniądze atrakcyjniejszych warunków dla osób, które trzeba będzie znaleźć na zastępstwo.* 
 
+### Dane do wpłaty
+Paweł Jedwabny  
+24 1160 2202 0000 000 3065 05531  
+Tytułem: Rejs październik, imię i nazwisko uczestników za których jest wpłata
+
 ## Składka jachtowa
 To jest składka załogi danej jednostki na różne wydatki związane z pobytem na jachcie. Między innymi:
 - Ubezpieczenie turystyczne załogi (koszty leczenia, ratownictwo, NNW, OC, bagaż)
